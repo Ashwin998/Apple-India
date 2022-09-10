@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'sf_pro_displayblack_italic';
+    src: url('sfprodisplayblackitalic-webfont.woff2') format('woff2'),
+         url('sfprodisplayblackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
